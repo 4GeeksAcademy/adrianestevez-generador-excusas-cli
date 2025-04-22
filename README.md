@@ -1,3 +1,3 @@
-# adrianestevez-generador-excusas-cli
+# Adrián Estévez - Excuse Generator
 
-Ejercicio realizado para 4GeeksAcademy - Start Coding using Javascript 
+Exercise done for 4GeeksAcademy - Start Coding using Javascript 

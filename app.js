@@ -1,7 +1,7 @@
-const who = ["Un plátano gigante", "Una abuela ninja", "El repartidor de pizza", "El vecino"];
-const action = ["hipnotizó", "secuestró", "se sentó encima de", "se comió"];
-const what = ["mi planta carnívora", "mi perro", "mis deberes", "mi colección de calcetines"];
-const when = ["mientras cantaba en la ducha.", "durante una batalla de breakdance.", "durante el desfile de patos.", "justo antes de salir de casa."];
+const who = ["A giant banana", "A ninja grandma", "The pizza delivery guy", "The neighbor"];
+const action = ["hypnotized", "kidnapped", "sat on", "ate"];
+const what = ["my carnivorous plant", "my dog", "my homework", "my sock collection"];
+const when = ["while singing in the shower.", "during a breakdance battle.", "during the duck parade.", "right before I left the house."];
 
 const randomArrElement = (arr) => {
   return arr[Math.floor(Math.random() * arr.length)];
